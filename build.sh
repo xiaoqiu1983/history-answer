@@ -1,0 +1,1 @@
+docker build -t hub.lzhaohao.info:5000/horovod_bert:v2 -f Dockerfile .
